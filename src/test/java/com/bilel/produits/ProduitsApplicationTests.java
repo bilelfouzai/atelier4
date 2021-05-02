@@ -1,4 +1,4 @@
-package com.nadhem.produits;
+package com.bilel.produits;
 
 
 
@@ -9,9 +9,9 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.nadhem.produits.entities.Categorie;
-import com.nadhem.produits.entities.Produit;
-import com.nadhem.produits.repos.ProduitRepository;
+import com.bilel.produits.entities.Categorie;
+import com.bilel.produits.entities.Produit;
+import com.bilel.produits.repos.ProduitRepository;
 
 
 @SpringBootTest
