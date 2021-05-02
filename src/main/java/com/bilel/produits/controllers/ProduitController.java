@@ -1,4 +1,4 @@
-package com.nadhem.produits.controllers;
+package com.bilel.controllers;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -11,8 +11,8 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import com.nadhem.produits.entities.Produit;
-import com.nadhem.produits.service.ProduitService;
+import com.bilel.produits.entities.Produit;
+import com.bilel.produits.service.ProduitService;
 
 @Controller
 public class ProduitController {
