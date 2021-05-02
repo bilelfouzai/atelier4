@@ -1,9 +1,9 @@
-package com.nadhem.produits.service;
+package com.bilel.produits.service;
 
 import java.util.List;
 
-import com.nadhem.produits.entities.Categorie;
-import com.nadhem.produits.entities.Produit;
+import com.bilel.produits.entities.Categorie;
+import com.bilel.produits.entities.Produit;
 
 public interface ProduitService {
 	Produit saveProduit(Produit p);
