@@ -1,12 +1,12 @@
-package com.nadhem.produits.service;
+package com.bilel.produits.service;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.nadhem.produits.entities.Categorie;
-import com.nadhem.produits.entities.Produit;
-import com.nadhem.produits.repos.ProduitRepository;
+import com.bilel.produits.entities.Categorie;
+import com.bilel.produits.entities.Produit;
+import com.bilel.produits.repos.ProduitRepository;
 
 
 @Service
