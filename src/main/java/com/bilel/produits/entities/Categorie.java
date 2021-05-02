@@ -1,4 +1,4 @@
-package com.nadhem.produits.entities;
+package com.bilel.produits.entities;
 
 import java.util.List;
 
